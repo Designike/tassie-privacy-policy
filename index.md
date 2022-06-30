@@ -39,7 +39,7 @@ This Privacy Policy explains how we collect, store and use your Personal Informa
 
 ## **What Personal Information do we collect from you?**
 
-|*Information you submit to us*|Visiting our Site or using our App without registration|- Technical Information [(see below)](https://cookpad.com/us/privacy?from=a#TechnicalInfo)|
+|*Information you submit to us*|Visiting our Site or using our App without registration|- Technical Information |
 | :- | :- | :- |
 ||If you register with us via our Site or App|<p>- Username, Email address and password</p><p>- Recipe or food interests that you indicate through your use of the Site or App.</p>|
 ||If you sign in via social media such as Google|- If you sign into our Site or App via Google, we will collect your Google ID, name, profile photo and e-mail address.|
@@ -74,7 +74,7 @@ We don’t use any kind of cookies in our service.
 - **To protect you, us and others**
 - For example, we might use your Personal Information to:
   - promote safety and security on Tassie Service to protect you and your Personal Information;
-  - deny use of the Tassie Service to previous registered users who have: (a) not made prompt payment; (b) caused damage to Tassie, other users or third parties; or (c) breached our terms of use ([**"Terms of Use"**](https://cookpad.com/us/terms)) or used Tassie Service in a fraudulent or improper way; or
+  - deny use of the Tassie Service to previous registered users who have: (a) not made prompt payment; (b) caused damage to Tassie, other users or third parties; or (c) breached our terms of use **"Terms of Use"** or used Tassie Service in a fraudulent or improper way; or
   - protect users of the Tassie Service and our Our Group against threats such as fraud or cyber-attacks.
 - **To conduct direct marketing and promote the Tassie Service.**
 - For example, we might use your Personal Information to:
