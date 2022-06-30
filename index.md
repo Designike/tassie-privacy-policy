@@ -1,9 +1,12 @@
-# tassie-privacy-policy
-# **Privacy Policy**
-## **Website and App Privacy Policy**
-Last Updated: 6 June 2022
+# **Tassie**
+By Designike Squad
+
+Crafted with ❤️ in India
+
+## **App Privacy Policy**
+Last Updated: 30 June 2022
 ## **Contents**
-- [1. Overview]()
+- [1. Overview](#overview)
 - [2. What does this Privacy Policy cover?]()
 - [3. What Personal Information do we collect from you?]()
 - [4. Cookies]()
@@ -17,7 +20,7 @@ Last Updated: 6 June 2022
 - [12. Changes to this Privacy Policy]()
 - [13. Your rights]()
 - [14. Contacting us, further questions and how to make a complaint]()
-## **1. Overview**
+## **Overview**
 This is the Website and App Privacy Policy of Designike, India. We are the data controller in respect of the Personal Information (as defined below) that we collect from you. It covers information Tassie collects from users and visitors of our official website and official mobile app.
 
 When we use the terms “we”, “us” or “our” we refer to Tassie and **“Our Squad”** means entities controlling, controlled by or under common control with Tassie.
