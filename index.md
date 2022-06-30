@@ -7,7 +7,7 @@ Crafted with ❤️ in India
 Last Updated: 30 June 2022
 ## **Contents**
 - [1. Overview](#overview)
-- [2. What does this Privacy Policy cover?]()
+- [2. What does this Privacy Policy cover?](#What-does-this-Privacy-Policy-cover)
 - [3. What Personal Information do we collect from you?]()
 - [4. Cookies]()
 - [5. How do we use Personal Information collected from you?]()
@@ -31,7 +31,7 @@ You have various rights in respect of our use of your Personal Information as se
 
 1. ask us to stop using your Personal Information for direct-marketing by email or push notification. If you exercise this right, we will stop using your Personal Information in this regard; and
 1. ask us to consider any valid objections you have to our use of your Personal Information where we process your Personal Information on the basis of our, or a third party's, legitimate interests.
-## **2. What does this Privacy Policy cover?**
+## **What does this Privacy Policy cover?**
 We process certain information about you visit or when you use our service provided by our Site or App. Some of that information may enable you to be identifiable.
 
 This Privacy Policy explains how we collect, store and use your Personal Information when you visit or use our Site and App. It also describes the types of Personal Information we collect, how we use this Personal Information to ensure we provide a relevant and timely Tassie Service to you, and to improve your experience of the Tassie Service.
